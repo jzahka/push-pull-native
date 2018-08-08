@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/jzahka/workspace/push-pull-native/node_modules/react-native/React/Views/RCTView.m \
+  /Users/jzahka/workspace/push-pull-native/node_modules/react-native/React/Views/RCTView.h \
+  /Users/jzahka/workspace/push-pull-native/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/jzahka/workspace/push-pull-native/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/jzahka/workspace/push-pull-native/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/jzahka/workspace/push-pull-native/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/jzahka/workspace/push-pull-native/node_modules/react-native/React/Views/RCTBorderDrawing.h \
+  /Users/jzahka/workspace/push-pull-native/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/jzahka/workspace/push-pull-native/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/jzahka/workspace/push-pull-native/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/jzahka/workspace/push-pull-native/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/jzahka/workspace/push-pull-native/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/jzahka/workspace/push-pull-native/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/jzahka/workspace/push-pull-native/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/jzahka/workspace/push-pull-native/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/jzahka/workspace/push-pull-native/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/jzahka/workspace/push-pull-native/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/jzahka/workspace/push-pull-native/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/jzahka/workspace/push-pull-native/node_modules/react-native/React/Modules/RCTI18nUtil.h

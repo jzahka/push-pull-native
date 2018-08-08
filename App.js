@@ -13,7 +13,7 @@ export default class App extends React.Component {
           onPress={() => {
             Alert.alert('You tapped the button!');
           }}
-          title="Press Me"
+          title="Press Me Please"
         />
       </View>
     );
